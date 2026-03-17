@@ -1,0 +1,2613 @@
+fileFormatVersion: 2
+guid: 722f471b66a82054eab33b3cb3204e2b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1903308563850784699
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_0
+  - first:
+      213: -8177470529473748789
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_1
+  - first:
+      213: 817410757525861243
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_2
+  - first:
+      213: 8135742576894224942
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_3
+  - first:
+      213: 8128358945384617271
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_4
+  - first:
+      213: 2441630416530171238
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_5
+  - first:
+      213: 3242163656234706404
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_6
+  - first:
+      213: -5246607206633820025
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_7
+  - first:
+      213: 102172603580330452
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_8
+  - first:
+      213: 7427621951153447310
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_9
+  - first:
+      213: 4777373794921154754
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_10
+  - first:
+      213: -7059679395138651678
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_11
+  - first:
+      213: 6376090561363536467
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_12
+  - first:
+      213: 7703131681902222288
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_13
+  - first:
+      213: 4899438499326323064
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_14
+  - first:
+      213: 1079499098494994518
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_15
+  - first:
+      213: -1312925260354563174
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_16
+  - first:
+      213: -7772425741734758756
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_17
+  - first:
+      213: -707040340749490769
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_18
+  - first:
+      213: -6865001089959702647
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_19
+  - first:
+      213: 9121150258462155320
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_20
+  - first:
+      213: -6283117433820949412
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_21
+  - first:
+      213: -5882158924206501574
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_22
+  - first:
+      213: -274931324133955391
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_23
+  - first:
+      213: -6599866950637339741
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_24
+  - first:
+      213: 874242742562727711
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_25
+  - first:
+      213: -5708073902961079169
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_26
+  - first:
+      213: 9197049467007714652
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_27
+  - first:
+      213: -4981020046314823726
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_28
+  - first:
+      213: 6340840261586371963
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_29
+  - first:
+      213: -4544855504683424426
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_30
+  - first:
+      213: 7411965500676225418
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_31
+  - first:
+      213: 9027649488633460245
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_32
+  - first:
+      213: 7553145727847330686
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_33
+  - first:
+      213: 9121041247730335040
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_34
+  - first:
+      213: 3080609346172079880
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_35
+  - first:
+      213: -7560808988106569775
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_36
+  - first:
+      213: -4838473152238921300
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_37
+  - first:
+      213: -1789558172471138523
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_38
+  - first:
+      213: -1335893207261311950
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_39
+  - first:
+      213: 59861327396612999
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_40
+  - first:
+      213: -7914600329970759590
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_41
+  - first:
+      213: 6448853115857743999
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_42
+  - first:
+      213: 5679325873446206807
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_43
+  - first:
+      213: -6069248403123470386
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_44
+  - first:
+      213: -4649053363177092171
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_45
+  - first:
+      213: -6856412798933874599
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_46
+  - first:
+      213: -6279748895207349402
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_47
+  - first:
+      213: -3271196379929658252
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_48
+  - first:
+      213: 9219741872371958796
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_49
+  - first:
+      213: -7252025642092355654
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_50
+  - first:
+      213: -8883152130171022377
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_51
+  - first:
+      213: 143449035566252475
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_52
+  - first:
+      213: -6236381029159806080
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_53
+  - first:
+      213: -6967305994490499683
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_54
+  - first:
+      213: -4549963753730772369
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_55
+  - first:
+      213: -182547693602382632
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_56
+  - first:
+      213: 8477430523677150313
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_57
+  - first:
+      213: 2624588917549687271
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_58
+  - first:
+      213: 387748619748222095
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_59
+  - first:
+      213: 5035666878034922591
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_60
+  - first:
+      213: -3003766316570760313
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_61
+  - first:
+      213: 8329267563208457492
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_62
+  - first:
+      213: -4611580551950076239
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_63
+  - first:
+      213: 8734404457875956362
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_64
+  - first:
+      213: -4459725218742536535
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_65
+  - first:
+      213: 9145418655187385564
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_66
+  - first:
+      213: -7936098287647910982
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_67
+  - first:
+      213: 5733204837272827578
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_68
+  - first:
+      213: -8843435625778129638
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_69
+  - first:
+      213: -1079963275711766351
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_70
+  - first:
+      213: -3605150675376804557
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_71
+  - first:
+      213: 8983169763366206832
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_72
+  - first:
+      213: 3310014971059183224
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_73
+  - first:
+      213: -7200110262323137368
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_74
+  - first:
+      213: -3067330872124261317
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_75
+  - first:
+      213: 7524689246933675530
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_76
+  - first:
+      213: -2403551512480444283
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_77
+  - first:
+      213: 3345685199169003245
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_78
+  - first:
+      213: -8753809135836778694
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_79
+  - first:
+      213: 6544526275035060724
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_80
+  - first:
+      213: 6962448091888894510
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_81
+  - first:
+      213: 6043253907463492999
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_82
+  - first:
+      213: 6616856946063645343
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_83
+  - first:
+      213: -1088506872558475399
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_84
+  - first:
+      213: 6625076680257001748
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_85
+  - first:
+      213: -5033644794429311091
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_86
+  - first:
+      213: -666671263910603219
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_87
+  - first:
+      213: -3433708660743079057
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_88
+  - first:
+      213: 5985859045882601871
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_89
+  - first:
+      213: 6700078863123123853
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_90
+  - first:
+      213: 4386120265730788810
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_91
+  - first:
+      213: 588751835648156580
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_92
+  - first:
+      213: -4347472299633580056
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_93
+  - first:
+      213: -4660202854392041474
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_94
+  - first:
+      213: -6863439434518337365
+    second: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_0
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 137
+        width: 95
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 90, w: 62}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfe84efd09e96a10800000000000000
+      internalID: 1903308563850784699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 445
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0ed7921e9c38e80800000000000000
+      internalID: -8177470529473748789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 445
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7379edc0c6085b00800000000000000
+      internalID: 817410757525861243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_3
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 445
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2a2dc7c4c6f7e070800000000000000
+      internalID: 8135742576894224942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_4
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 445
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735d48a156bbdc070800000000000000
+      internalID: 8128358945384617271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 445
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665e1127de962e120800000000000000
+      internalID: 2441630416530171238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 445
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e52d89eaaa7efc20800000000000000
+      internalID: 3242163656234706404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_7
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 445
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78036941b8e4037b0800000000000000
+      internalID: -5246607206633820025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_8
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 445
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1be2e017dfa6100800000000000000
+      internalID: 102172603580330452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 445
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e812564bfc6341760800000000000000
+      internalID: 7427621951153447310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_10
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 445
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c80985a724ac4240800000000000000
+      internalID: 4777373794921154754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_11
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 445
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9bd907efaf60e90800000000000000
+      internalID: -7059679395138651678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_12
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 445
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a6bc5659c6c7850800000000000000
+      internalID: 6376090561363536467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_13
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 445
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dbd6d5a37507ea60800000000000000
+      internalID: 7703131681902222288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_14
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 445
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879e7375b5d4ef340800000000000000
+      internalID: 4899438499326323064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_15
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 445
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658062de5b62bfe00800000000000000
+      internalID: 1079499098494994518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 205
+        width: 130
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93ddef8e6d87cde0800000000000000
+      internalID: -1312925260354563174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_17
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 253
+        width: 129
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c963cccc7fbc22490800000000000000
+      internalID: -7772425741734758756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_18
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 317
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa561cf5e861036f0800000000000000
+      internalID: -707040340749490769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_19
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 221
+        width: 18
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f484a81ed9ab0a0800000000000000
+      internalID: -6865001089959702647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_20
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 225
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832699a85d5d49e70800000000000000
+      internalID: 9121150258462155320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_21
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 224
+        width: 58
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54d90bbbf1edc8a0800000000000000
+      internalID: -6283117433820949412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_22
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 221
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a31174a9f9f5e5ea0800000000000000
+      internalID: -5882158924206501574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_23
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 205
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c82e57da6f3f2cf0800000000000000
+      internalID: -274931324133955391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_24
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 205
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3abbb6ad9ff8864a0800000000000000
+      internalID: -6599866950637339741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_25
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 208
+        width: 47
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f172ae5742fe12c00800000000000000
+      internalID: 874242742562727711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_26
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 205
+        width: 66
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7cc3562709d8c0b0800000000000000
+      internalID: -5708073902961079169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_27
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 138
+        width: 94
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 63, z: 93, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55c0be13cb72af70800000000000000
+      internalID: 9197049467007714652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_28
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 29
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2df1e4098acdfdab0800000000000000
+      internalID: -4981020046314823726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_29
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 27
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75c9596f903ff750800000000000000
+      internalID: 6340840261586371963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_30
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 29
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655add78ffd6de0c0800000000000000
+      internalID: -4544855504683424426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_31
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 29
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89b1434a579cd660800000000000000
+      internalID: 7411965500676225418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_32
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 29
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516fbbe1167a84d70800000000000000
+      internalID: 9027649488633460245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_33
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 29
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73791d650a22d860800000000000000
+      internalID: 7553145727847330686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_34
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 29
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04df6a080b2749e70800000000000000
+      internalID: 9121041247730335040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_35
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 29
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80fc55ae0e580ca20800000000000000
+      internalID: 3080609346172079880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_36
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 29
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7c351c84c921790800000000000000
+      internalID: -7560808988106569775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_37
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 29
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9d889ad4a4adcb0800000000000000
+      internalID: -4838473152238921300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_38
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 29
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527e5f8d2563a27e0800000000000000
+      internalID: -1789558172471138523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_39
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 29
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23c0553b434f57de0800000000000000
+      internalID: -1335893207261311950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_40
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 29
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b22436f8ba4d000800000000000000
+      internalID: 59861327396612999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_41
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 29
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5847e8eee0b92290800000000000000
+      internalID: -7914600329970759590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_42
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 29
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f703f5bcdbdee7950800000000000000
+      internalID: 6448853115857743999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_43
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 29
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d3272aac401de40800000000000000
+      internalID: 5679325873446206807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_44
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 29
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecff73ecbb2b5cba0800000000000000
+      internalID: -6069248403123470386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_45
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 29
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb8ef1199e3b7fb0800000000000000
+      internalID: -4649053363177092171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_46
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 29
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958ca1ed2e029d0a0800000000000000
+      internalID: -6856412798933874599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_47
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 29
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663a38eb6a9d9d8a0800000000000000
+      internalID: -6279748895207349402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_48
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 29
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cbfb759306a92d0800000000000000
+      internalID: -3271196379929658252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_49
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 29
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c048687726a13ff70800000000000000
+      internalID: 9219741872371958796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_50
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 17
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf9f05f911ab5b90800000000000000
+      internalID: -7252025642092355654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_51
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 27
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d3d66bd334b8b480800000000000000
+      internalID: -8883152130171022377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_52
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 29
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb18c484322adf100800000000000000
+      internalID: 143449035566252475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_53
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 29
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08bd1f8ee7ce379a0800000000000000
+      internalID: -6236381029159806080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_54
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 17
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9da1f4cc182f4f90800000000000000
+      internalID: -6967305994490499683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_55
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 15
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6279fd92184bd0c0800000000000000
+      internalID: -4549963753730772369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_56
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 15
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc534007d5777df0800000000000000
+      internalID: -182547693602382632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_57
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c84db5522e5a570800000000000000
+      internalID: 8477430523677150313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_58
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 17
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1e9fff6b96c6420800000000000000
+      internalID: 2624588917549687271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_59
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 17
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84ad36b05f816500800000000000000
+      internalID: 387748619748222095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_60
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 15
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5cc870785842e540800000000000000
+      internalID: 5035666878034922591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_61
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 16
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b2480237a7056d0800000000000000
+      internalID: -3003766316570760313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_62
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 17
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d3938e7b0879370800000000000000
+      internalID: 8329267563208457492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_63
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b67ae3dbef5000c0800000000000000
+      internalID: -4611580551950076239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_64
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 15
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82e84cd396d63970800000000000000
+      internalID: 8734404457875956362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_65
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 17
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6fffcca8fdb12c0800000000000000
+      internalID: -4459725218742536535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_66
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdcbca8ffcd0bee70800000000000000
+      internalID: 9145418655187385564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_67
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 17
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3192697a05dd190800000000000000
+      internalID: -7936098287647910982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_68
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 17
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6b2367c6f609f40800000000000000
+      internalID: 5733204837272827578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_69
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 5
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15d573272ec54580800000000000000
+      internalID: -8843435625778129638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_70
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0abb46f133301f0800000000000000
+      internalID: -1079963275711766351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_71
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 3
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33de768cf8ee7fdc0800000000000000
+      internalID: -3605150675376804557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_72
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 3
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07df87e0e41aaac70800000000000000
+      internalID: 8983169763366206832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_73
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 3
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e153734198fed20800000000000000
+      internalID: 3310014971059183224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_74
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 5
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4b59e3dd1141c90800000000000000
+      internalID: -7200110262323137368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_75
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 5
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3cb17eb2d6ae65d0800000000000000
+      internalID: -3067330872124261317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_76
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 5
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0eeea8a0011d6860800000000000000
+      internalID: 7524689246933675530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_77
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580104b42aed4aed0800000000000000
+      internalID: -2403551512480444283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_78
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee10c266f24e6e20800000000000000
+      internalID: 3345685199169003245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_79
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f21ea78f8348680800000000000000
+      internalID: -8753809135836778694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_80
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 5
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9dca609f3d2da50800000000000000
+      internalID: 6544526275035060724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 5
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e224224a6a59f9060800000000000000
+      internalID: 6962448091888894510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_82
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7855ad90963fdd350800000000000000
+      internalID: 6043253907463492999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_83
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 5
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a13b7b55cc3db50800000000000000
+      internalID: 6616856946063645343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_84
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 5
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977a49d34c8d4e0f0800000000000000
+      internalID: -1088506872558475399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_85
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4195178b32001fb50800000000000000
+      internalID: 6625076680257001748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_86
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d87fb869ab6e42ab0800000000000000
+      internalID: -5033644794429311091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_87
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 5
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26d5a484028fb6f0800000000000000
+      internalID: -666671263910603219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_88
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bf9366a240950d0800000000000000
+      internalID: -3433708660743079057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_89
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f812469761b021350800000000000000
+      internalID: 5985859045882601871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_90
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e8e8b3a367bfc50800000000000000
+      internalID: 6700078863123123853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_91
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acd860d9421aedc30800000000000000
+      internalID: 4386120265730788810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_92
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a3eaa8dcaaab2800800000000000000
+      internalID: 588751835648156580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_93
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 5
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e76d753afcaaa3c0800000000000000
+      internalID: -4347472299633580056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_94
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 5
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff63bad132a35fb0800000000000000
+      internalID: -4660202854392041474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mobile - Gradius NEO Imperial - Ships - Big Core Custom_95
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 3
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba86028c23a20c0a0800000000000000
+      internalID: -6863439434518337365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3037f4b619617de4da65666825385a27
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_0: 1903308563850784699
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_1: -8177470529473748789
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_10: 4777373794921154754
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_11: -7059679395138651678
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_12: 6376090561363536467
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_13: 7703131681902222288
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_14: 4899438499326323064
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_15: 1079499098494994518
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_16: -1312925260354563174
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_17: -7772425741734758756
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_18: -707040340749490769
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_19: -6865001089959702647
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_2: 817410757525861243
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_20: 9121150258462155320
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_21: -6283117433820949412
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_22: -5882158924206501574
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_23: -274931324133955391
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_24: -6599866950637339741
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_25: 874242742562727711
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_26: -5708073902961079169
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_27: 9197049467007714652
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_28: -4981020046314823726
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_29: 6340840261586371963
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_3: 8135742576894224942
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_30: -4544855504683424426
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_31: 7411965500676225418
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_32: 9027649488633460245
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_33: 7553145727847330686
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_34: 9121041247730335040
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_35: 3080609346172079880
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_36: -7560808988106569775
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_37: -4838473152238921300
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_38: -1789558172471138523
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_39: -1335893207261311950
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_4: 8128358945384617271
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_40: 59861327396612999
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_41: -7914600329970759590
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_42: 6448853115857743999
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_43: 5679325873446206807
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_44: -6069248403123470386
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_45: -4649053363177092171
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_46: -6856412798933874599
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_47: -6279748895207349402
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_48: -3271196379929658252
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_49: 9219741872371958796
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_5: 2441630416530171238
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_50: -7252025642092355654
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_51: -8883152130171022377
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_52: 143449035566252475
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_53: -6236381029159806080
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_54: -6967305994490499683
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_55: -4549963753730772369
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_56: -182547693602382632
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_57: 8477430523677150313
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_58: 2624588917549687271
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_59: 387748619748222095
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_6: 3242163656234706404
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_60: 5035666878034922591
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_61: -3003766316570760313
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_62: 8329267563208457492
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_63: -4611580551950076239
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_64: 8734404457875956362
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_65: -4459725218742536535
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_66: 9145418655187385564
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_67: -7936098287647910982
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_68: 5733204837272827578
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_69: -8843435625778129638
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_7: -5246607206633820025
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_70: -1079963275711766351
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_71: -3605150675376804557
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_72: 8983169763366206832
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_73: 3310014971059183224
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_74: -7200110262323137368
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_75: -3067330872124261317
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_76: 7524689246933675530
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_77: -2403551512480444283
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_78: 3345685199169003245
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_79: -8753809135836778694
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_8: 102172603580330452
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_80: 6544526275035060724
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_81: 6962448091888894510
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_82: 6043253907463492999
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_83: 6616856946063645343
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_84: -1088506872558475399
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_85: 6625076680257001748
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_86: -5033644794429311091
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_87: -666671263910603219
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_88: -3433708660743079057
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_89: 5985859045882601871
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_9: 7427621951153447310
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_90: 6700078863123123853
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_91: 4386120265730788810
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_92: 588751835648156580
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_93: -4347472299633580056
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_94: -4660202854392041474
+      Mobile - Gradius NEO Imperial - Ships - Big Core Custom_95: -6863439434518337365
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

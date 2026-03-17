@@ -1,0 +1,3055 @@
+fileFormatVersion: 2
+guid: b3d50a4acecb2864e9d2e8e679d5669b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7849528544789539326
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_0
+  - first:
+      213: -85040423091242660
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_1
+  - first:
+      213: -3713110093501645159
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_2
+  - first:
+      213: 7185700383556488062
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_3
+  - first:
+      213: 7533524491873878803
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_4
+  - first:
+      213: -4458192946860896026
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_5
+  - first:
+      213: -7696833249320321423
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_6
+  - first:
+      213: 6297700495197664455
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_7
+  - first:
+      213: 3794316238848093587
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_8
+  - first:
+      213: 4516955884596479871
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_9
+  - first:
+      213: -4651448428077427563
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_10
+  - first:
+      213: -967453611542608111
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_11
+  - first:
+      213: -8878970312242615908
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_12
+  - first:
+      213: 3374697492850495465
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_13
+  - first:
+      213: -5973722642560664873
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_14
+  - first:
+      213: 3518373661118681179
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_15
+  - first:
+      213: 7887602455778242377
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_16
+  - first:
+      213: -2297411909936793289
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_17
+  - first:
+      213: -3936632902514852391
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_18
+  - first:
+      213: 624779398384905680
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_19
+  - first:
+      213: 3186104501537290451
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_20
+  - first:
+      213: -3733627163549542522
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_21
+  - first:
+      213: 5617042519725559828
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_22
+  - first:
+      213: -6803212167841875419
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_23
+  - first:
+      213: -5790693335070434469
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_24
+  - first:
+      213: -7705004911090613907
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_25
+  - first:
+      213: -5051491050312890075
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_26
+  - first:
+      213: -1956619202866846838
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_27
+  - first:
+      213: -8871695056866236970
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_28
+  - first:
+      213: 6398035886153989514
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_29
+  - first:
+      213: -977036776400782618
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_30
+  - first:
+      213: 8082567878812814222
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_31
+  - first:
+      213: 4385739396005152098
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_32
+  - first:
+      213: 4436154065990181249
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_33
+  - first:
+      213: -6054920868474803605
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_34
+  - first:
+      213: -4700589998634916693
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_35
+  - first:
+      213: 8908734794623513207
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_36
+  - first:
+      213: -4525471124526321907
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_37
+  - first:
+      213: 1432345022983742920
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_38
+  - first:
+      213: -8379182209152109387
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_39
+  - first:
+      213: 8716242773448623993
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_40
+  - first:
+      213: 5194737789166236775
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_41
+  - first:
+      213: 7930809075925560249
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_42
+  - first:
+      213: -4890166505955854595
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_43
+  - first:
+      213: 4205223309812289768
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_44
+  - first:
+      213: -7521290330483903297
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_45
+  - first:
+      213: -1910158042859999794
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_46
+  - first:
+      213: -8322092965353681161
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_47
+  - first:
+      213: -8487359456150641857
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_48
+  - first:
+      213: -7260057286616010846
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_49
+  - first:
+      213: 1792741495708444216
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_50
+  - first:
+      213: 3135695433785923068
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_51
+  - first:
+      213: 3467193174836591470
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_52
+  - first:
+      213: 5735154889233584062
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_53
+  - first:
+      213: 958402138986643949
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_54
+  - first:
+      213: 5371442260671849737
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_55
+  - first:
+      213: 1851680018067256100
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_56
+  - first:
+      213: -6633038856779565596
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_57
+  - first:
+      213: 5467751749107639848
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_58
+  - first:
+      213: -8205544437520839476
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_59
+  - first:
+      213: 5975653333180533218
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_60
+  - first:
+      213: 616049896425821513
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_61
+  - first:
+      213: -8218633693520176738
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_62
+  - first:
+      213: -3601397195486481451
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_63
+  - first:
+      213: -7913360673441929651
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_64
+  - first:
+      213: 6788954396759806357
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_65
+  - first:
+      213: 6129734555630540281
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_66
+  - first:
+      213: 8292216329750767242
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_67
+  - first:
+      213: 5482111575625949904
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_68
+  - first:
+      213: 3931645894466268799
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_69
+  - first:
+      213: -7724592413441552101
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_70
+  - first:
+      213: 6459186887622665314
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_71
+  - first:
+      213: -8595077665479307260
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_72
+  - first:
+      213: 2805774217518756537
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_73
+  - first:
+      213: 4672183863879415654
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_74
+  - first:
+      213: -6650809537550290430
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_75
+  - first:
+      213: 3870397102759876861
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_76
+  - first:
+      213: -6897620006012072101
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_77
+  - first:
+      213: 8884256184599490724
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_78
+  - first:
+      213: 8251141743504185856
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_79
+  - first:
+      213: -4259265466248076589
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_80
+  - first:
+      213: 8246469563929947568
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_81
+  - first:
+      213: 4149209017144675012
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_82
+  - first:
+      213: -2941207087450043139
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_83
+  - first:
+      213: 271246221951476235
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_84
+  - first:
+      213: 686669375066238111
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_85
+  - first:
+      213: 1022626962378022613
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_86
+  - first:
+      213: 7208804765381011531
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_87
+  - first:
+      213: -2370334863483783757
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_88
+  - first:
+      213: -1948015709732462215
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_89
+  - first:
+      213: 6056287664648504084
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_90
+  - first:
+      213: -1270111627696978272
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_91
+  - first:
+      213: -1285912060521332149
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_92
+  - first:
+      213: 9141037965876740285
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_93
+  - first:
+      213: 7486663432545881143
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_94
+  - first:
+      213: 9144196661517234033
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_95
+  - first:
+      213: -6730271391252058551
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_96
+  - first:
+      213: -5345715487071943779
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_97
+  - first:
+      213: 4563929344066508909
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_98
+  - first:
+      213: -586469276693651877
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_99
+  - first:
+      213: 784402366922897787
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_100
+  - first:
+      213: -6592113244666336886
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_101
+  - first:
+      213: 791162273386777743
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_102
+  - first:
+      213: -2846508904491511631
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_103
+  - first:
+      213: 7722622155037033644
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_104
+  - first:
+      213: 7307913198879351635
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_105
+  - first:
+      213: 2279277916413102448
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_106
+  - first:
+      213: 2913404773087554026
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_107
+  - first:
+      213: 991843880697206719
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_108
+  - first:
+      213: 3961270971339867078
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_109
+  - first:
+      213: -6825218992228078180
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_110
+  - first:
+      213: -6662109630713802252
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_111
+  - first:
+      213: 7693318006113996689
+    second: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_112
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 105
+        width: 114
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 206d789806fd01390800000000000000
+      internalID: -7849528544789539326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_1
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 50
+        width: 31
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c59f81e8f20e1def0800000000000000
+      internalID: -85040423091242660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_2
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 168
+        width: 111
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ebae8fa02687cc0800000000000000
+      internalID: -3713110093501645159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 172
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bc5486d6cb8b360800000000000000
+      internalID: 7185700383556488062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_4
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 170
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31309dc6c947c8860800000000000000
+      internalID: 7533524491873878803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_5
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 170
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e05436a2215122c0800000000000000
+      internalID: -4458192946860896026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_6
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 170
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17eb8d670fa5f2590800000000000000
+      internalID: -7696833249320321423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_7
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 169
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c4fe06db3de56750800000000000000
+      internalID: 6297700495197664455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_8
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 141
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39d690e148e18a430800000000000000
+      internalID: 3794316238848093587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_9
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 135
+        width: 18
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77cb77f1737fae30800000000000000
+      internalID: 4516955884596479871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_10
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 135
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59455619c4cb27fb0800000000000000
+      internalID: -4651448428077427563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_11
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 133
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117855be01ae292f0800000000000000
+      internalID: -967453611542608111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_12
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 134
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c992a873b8f87c480800000000000000
+      internalID: -8878970312242615908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_13
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 111
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef41c56d7555de20800000000000000
+      internalID: 3374697492850495465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_14
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 111
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dab67f18e2191da0800000000000000
+      internalID: -5973722642560664873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_15
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 111
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50d1122436c3d030800000000000000
+      internalID: 3518373661118681179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_16
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 111
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f292aa4a4667d60800000000000000
+      internalID: 7887602455778242377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_17
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 114
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73937754a04fd10e0800000000000000
+      internalID: -2297411909936793289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_18
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 114
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ddbc7a7b354e59c0800000000000000
+      internalID: -3936632902514852391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_19
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 79
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dde6b77d89aba800800000000000000
+      internalID: 624779398384905680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_20
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 81
+        width: 47
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d83767d921573c20800000000000000
+      internalID: 3186104501537290451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_21
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 96
+        width: 34
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68751e850ed7f2cc0800000000000000
+      internalID: -3733627163549542522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_22
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 84
+        width: 52
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 410d18c496eb3fd40800000000000000
+      internalID: 5617042519725559828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_23
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 96
+        width: 33
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a7b2c04922691a0800000000000000
+      internalID: -6803212167841875419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_24
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 84
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5b97e7971353afa0800000000000000
+      internalID: -5790693335070434469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_25
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 81
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61cdc13bd2521590800000000000000
+      internalID: -7705004911090613907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_26
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 81
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 529090857af75e9b0800000000000000
+      internalID: -5051491050312890075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_27
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 81
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83e96c9331b8d4e0800000000000000
+      internalID: -1956619202866846838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_28
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 81
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d526eb995861e480800000000000000
+      internalID: -8871695056866236970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_29
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 67
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8df86e7db36ac850800000000000000
+      internalID: 6398035886153989514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_30
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 67
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea732a7a3ed072f0800000000000000
+      internalID: -977036776400782618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_31
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 67
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8bce9999ac0b2070800000000000000
+      internalID: 8082567878812814222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_32
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 68
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265c2587eb64ddc30800000000000000
+      internalID: 4385739396005152098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_33
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 68
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181ef388e92609d30800000000000000
+      internalID: 4436154065990181249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_34
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 68
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6aa57bec8998fba0800000000000000
+      internalID: -6054920868474803605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_35
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 62
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4ac901d4624ceb0800000000000000
+      internalID: -4700589998634916693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_36
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 50
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77272bf581f22ab70800000000000000
+      internalID: 8908734794623513207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_37
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 57
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f225d3dfb4231c0800000000000000
+      internalID: -4525471124526321907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_38
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 56
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c5aeb2a536b0e310800000000000000
+      internalID: 1432345022983742920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_39
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 56
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b43733fc2a27bb80800000000000000
+      internalID: -8379182209152109387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_40
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 56
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 977887f2f9056f870800000000000000
+      internalID: 8716242773448623993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_41
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 51
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7643d801f7a671840800000000000000
+      internalID: 5194737789166236775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_42
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 46
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bbacf7d5d4ef0e60800000000000000
+      internalID: 7930809075925560249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_43
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 33
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6fcf7d873a22cb0800000000000000
+      internalID: -4890166505955854595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_44
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 33
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0dd8ee154fb5a30800000000000000
+      internalID: 4205223309812289768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_45
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 33
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb43dee3b420f9790800000000000000
+      internalID: -7521290330483903297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_46
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 33
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd69766161cd75e0800000000000000
+      internalID: -1910158042859999794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_47
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 33
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe01545a8cf18c80800000000000000
+      internalID: -8322092965353681161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_48
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 33
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f33a617ea87d63a80800000000000000
+      internalID: -8487359456150641857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_49
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 33
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af244efc581f3b90800000000000000
+      internalID: -7260057286616010846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_50
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 33
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 836edc954e811e810800000000000000
+      internalID: 1792741495708444216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_51
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 33
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf5df96226a348b20800000000000000
+      internalID: 3135695433785923068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_52
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 33
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b3bc192d1fd1030800000000000000
+      internalID: 3467193174836591470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_53
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 33
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebfcc905cfc579f40800000000000000
+      internalID: 5735154889233584062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_54
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 33
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de10646eaadec4d00800000000000000
+      internalID: 958402138986643949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_55
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 33
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 905edd6e6423b8a40800000000000000
+      internalID: 5371442260671849737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_56
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 33
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42376927a2d72b910800000000000000
+      internalID: 1851680018067256100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_57
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 33
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e57a489d46b2f3a0800000000000000
+      internalID: -6633038856779565596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_58
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 33
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 826e4951f3b51eb40800000000000000
+      internalID: 5467751749107639848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_59
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 33
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc43e41fcc002e80800000000000000
+      internalID: -8205544437520839476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_60
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 33
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9ca11db09cde250800000000000000
+      internalID: 5975653333180533218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_61
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 33
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9459068ed16ac8800800000000000000
+      internalID: 616049896425821513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_62
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 33
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e995cae233c81fd80800000000000000
+      internalID: -8218633693520176738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_63
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 33
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3b0fbe454450ec0800000000000000
+      internalID: -3601397195486481451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_64
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 33
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46a2ffe4681e2290800000000000000
+      internalID: -7913360673441929651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_65
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 21
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591d13fed06373e50800000000000000
+      internalID: 6788954396759806357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_66
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 19
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f59bc30a11311550800000000000000
+      internalID: 6129734555630540281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_67
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 19
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a86ec7f51ded31370800000000000000
+      internalID: 8292216329750767242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_68
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2ed3cbe6f541c40800000000000000
+      internalID: 5482111575625949904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_69
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 21
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ee84a3c13009630800000000000000
+      internalID: 3931645894466268799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_70
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 21
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11932a602cbcc490800000000000000
+      internalID: -7724592413441552101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_71
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 19
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2642c968044a3a950800000000000000
+      internalID: 6459186887622665314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_72
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 21
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4005634e66628b880800000000000000
+      internalID: -8595077665479307260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_73
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 20
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2b72309cc10f620800000000000000
+      internalID: 2805774217518756537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_74
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 21
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66738db487ee6d040800000000000000
+      internalID: 4672183863879415654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_75
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202f88d86f393b3a0800000000000000
+      internalID: -6650809537550290430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_76
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 19
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df814b1a8a966b530800000000000000
+      internalID: 3870397102759876861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_77
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 21
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fc502562bb640a0800000000000000
+      internalID: -6897620006012072101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_78
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0be98dde73b4b70800000000000000
+      internalID: 8884256184599490724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_79
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 21
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ad6f403b1f18270800000000000000
+      internalID: 8251141743504185856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_80
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 21
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2e13000ac04e4c0800000000000000
+      internalID: -4259265466248076589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_81
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 19
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd6d117068517270800000000000000
+      internalID: 8246469563929947568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_82
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca81cd1e93f49930800000000000000
+      internalID: 4149209017144675012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_83
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfccda5bcbbbe27d0800000000000000
+      internalID: -2941207087450043139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_84
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 21
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02a5127009a3c300800000000000000
+      internalID: 271246221951476235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_85
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 9
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c66f2982a878900800000000000000
+      internalID: 686669375066238111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_86
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5de574eddc9113e00800000000000000
+      internalID: 1022626962378022613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_87
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 7
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48adaf7db1da0460800000000000000
+      internalID: 7208804765381011531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_88
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 7
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5335f0001ea1fd0800000000000000
+      internalID: -2370334863483783757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_89
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 7
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9712484780247f4e0800000000000000
+      internalID: -1948015709732462215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_90
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 9
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41344fc1b814c0450800000000000000
+      internalID: 6056287664648504084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_91
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 9
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a647063438af5ee0800000000000000
+      internalID: -1270111627696978272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_92
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 9
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b424c344bc5872ee0800000000000000
+      internalID: -1285912060521332149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_93
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db04172499d7bde70800000000000000
+      internalID: 9141037965876740285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_94
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ccdc1d9b8f5e760800000000000000
+      internalID: 7486663432545881143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_95
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f2c066a66b6ee70800000000000000
+      internalID: 9144196661517234033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_96
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 9
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94e627204d54992a0800000000000000
+      internalID: -6730271391252058551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_97
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 9
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d93c5ca561430d5b0800000000000000
+      internalID: -5345715487071943779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_98
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 9
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68d015ce85565f30800000000000000
+      internalID: 4563929344066508909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_99
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 9
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e9ef2dc417cd7f0800000000000000
+      internalID: -586469276693651877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_100
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 9
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b793a69fbc1c2ea00800000000000000
+      internalID: 784402366922897787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_101
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89e3843eeb1484a0800000000000000
+      internalID: -6592113244666336886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_102
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cc8e855e5cafa00800000000000000
+      internalID: 791162273386777743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_103
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b01cc99b3b2f78d0800000000000000
+      internalID: -2846508904491511631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_104
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 9
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca44b8d0fe34c2b60800000000000000
+      internalID: 7722622155037033644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_105
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353a79cd55cea6560800000000000000
+      internalID: 7307913198879351635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_106
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0790238503f91af10800000000000000
+      internalID: 2279277916413102448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_107
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9afca843e7e6820800000000000000
+      internalID: 2913404773087554026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_108
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb71a9521ccb3cd00800000000000000
+      internalID: 991843880697206719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_109
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c387c1f5f249f630800000000000000
+      internalID: 3961270971339867078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_110
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9deef5fc73f741a0800000000000000
+      internalID: -6825218992228078180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_111
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 9
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f15896969e6b83a0800000000000000
+      internalID: -6662109630713802252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_112
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 7
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f8a8237f724ca60800000000000000
+      internalID: 7693318006113996689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_0: -7849528544789539326
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_1: -85040423091242660
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_10: -4651448428077427563
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_100: 784402366922897787
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_101: -6592113244666336886
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_102: 791162273386777743
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_103: -2846508904491511631
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_104: 7722622155037033644
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_105: 7307913198879351635
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_106: 2279277916413102448
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_107: 2913404773087554026
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_108: 991843880697206719
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_109: 3961270971339867078
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_11: -967453611542608111
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_110: -6825218992228078180
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_111: -6662109630713802252
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_112: 7693318006113996689
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_12: -8878970312242615908
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_13: 3374697492850495465
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_14: -5973722642560664873
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_15: 3518373661118681179
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_16: 7887602455778242377
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_17: -2297411909936793289
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_18: -3936632902514852391
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_19: 624779398384905680
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_2: -3713110093501645159
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_20: 3186104501537290451
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_21: -3733627163549542522
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_22: 5617042519725559828
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_23: -6803212167841875419
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_24: -5790693335070434469
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_25: -7705004911090613907
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_26: -5051491050312890075
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_27: -1956619202866846838
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_28: -8871695056866236970
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_29: 6398035886153989514
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_3: 7185700383556488062
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_30: -977036776400782618
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_31: 8082567878812814222
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_32: 4385739396005152098
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_33: 4436154065990181249
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_34: -6054920868474803605
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_35: -4700589998634916693
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_36: 8908734794623513207
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_37: -4525471124526321907
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_38: 1432345022983742920
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_39: -8379182209152109387
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_4: 7533524491873878803
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_40: 8716242773448623993
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_41: 5194737789166236775
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_42: 7930809075925560249
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_43: -4890166505955854595
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_44: 4205223309812289768
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_45: -7521290330483903297
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_46: -1910158042859999794
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_47: -8322092965353681161
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_48: -8487359456150641857
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_49: -7260057286616010846
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_5: -4458192946860896026
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_50: 1792741495708444216
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_51: 3135695433785923068
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_52: 3467193174836591470
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_53: 5735154889233584062
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_54: 958402138986643949
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_55: 5371442260671849737
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_56: 1851680018067256100
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_57: -6633038856779565596
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_58: 5467751749107639848
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_59: -8205544437520839476
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_6: -7696833249320321423
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_60: 5975653333180533218
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_61: 616049896425821513
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_62: -8218633693520176738
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_63: -3601397195486481451
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_64: -7913360673441929651
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_65: 6788954396759806357
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_66: 6129734555630540281
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_67: 8292216329750767242
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_68: 5482111575625949904
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_69: 3931645894466268799
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_7: 6297700495197664455
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_70: -7724592413441552101
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_71: 6459186887622665314
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_72: -8595077665479307260
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_73: 2805774217518756537
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_74: 4672183863879415654
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_75: -6650809537550290430
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_76: 3870397102759876861
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_77: -6897620006012072101
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_78: 8884256184599490724
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_79: 8251141743504185856
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_8: 3794316238848093587
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_80: -4259265466248076589
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_81: 8246469563929947568
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_82: 4149209017144675012
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_83: -2941207087450043139
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_84: 271246221951476235
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_85: 686669375066238111
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_86: 1022626962378022613
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_87: 7208804765381011531
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_88: -2370334863483783757
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_89: -1948015709732462215
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_9: 4516955884596479871
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_90: 6056287664648504084
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_91: -1270111627696978272
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_92: -1285912060521332149
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_93: 9141037965876740285
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_94: 7486663432545881143
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_95: 9144196661517234033
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_96: -6730271391252058551
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_97: -5345715487071943779
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_98: 4563929344066508909
+      Game Boy Advance - Gradius Galaxies - Bosses - Rexion Core_99: -586469276693651877
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
