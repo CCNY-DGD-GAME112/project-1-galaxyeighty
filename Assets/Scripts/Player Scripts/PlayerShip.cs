@@ -1,5 +1,6 @@
 
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 
 public class PlayerShip : MonoBehaviour
@@ -55,14 +56,13 @@ public class PlayerShip : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+       moveUp = Keyboard.current.wKey.isPressed;
+       moveDown = Keyboard.current.sKey.isPressed;
+       moveLeft = Keyboard.current.aKey.isPressed;
+       moveRight = Keyboard.current.dKey.isPressed;
+       speedUp = Keyboard.current.shiftKey.isPressed;
 
-       moveUp = Input.GetKey(KeyCode.UpArrow) || Input.GetKey(KeyCode.W);
-       moveDown = Input.GetKey(KeyCode.DownArrow) || Input.GetKey(KeyCode.S);
-       moveLeft = Input.GetKey(KeyCode.LeftArrow) || Input.GetKey(KeyCode.A);
-       moveRight = Input.GetKey(KeyCode.RightArrow) || Input.GetKey(KeyCode.D);
-       speedUp = Input.GetKey(KeyCode.LeftShift) || Input.GetKey(KeyCode.RightShift);
-
-        shoot = Input.GetKeyDown(KeyCode.Space);
+        shoot = Keyboard.current.spaceKey.wasPressedThisFrame;
         if (shoot)
         {
             foreach (Gun gun in guns)
