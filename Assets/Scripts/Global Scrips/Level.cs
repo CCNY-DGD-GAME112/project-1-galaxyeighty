@@ -7,8 +7,6 @@ public class Level : MonoBehaviour
     public static Level instance;
 
     uint numEnemies = 0;
-    bool startNextLevel = false;
-    float nextLevelTimer = 3;
 
     string[] levels = { "Level 1", "Level 2", "Level 3", "Level 4 (boss)" };
     int currentLevel = 1;
@@ -66,10 +64,5 @@ public class Level : MonoBehaviour
     public void RemoveEnemy()
     {
         numEnemies--;
-
-        if (numEnemies == 0)
-        {
-            startNextLevel = true;
-        }
     }
 }
